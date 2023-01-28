@@ -1,0 +1,5 @@
+﻿  NHF.cpp
+  film.cpp
+  Generating Code...
+NHF.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,struct Ido const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABUIdo@@@Z) already defined in film.obj
+C:\Users\petyk\Documents\C++\NHF\Debug\NHF.exe : fatal error LNK1169: one or more multiply defined symbols found
